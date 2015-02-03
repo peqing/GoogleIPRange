@@ -12,4 +12,6 @@
 ##建议使用[checkgoogleip](https://github.com/moonshawdo/checkgoogleip/)，快速且结果精准。
 gogo tester可用来整理结果，导出goagent需要的带|格式。
 
-##需要补充请直接提交[Pull Requset](https://github.com/lenovo-me/GoogleIPRange/pulls)
+##批量PING可用[PingInfoView](http://www.nirsoft.net/utils/multiple_ping_tool.html)。
+
+##需要补充请直接提交[Pull Requset](https://github.com/lenovo-me/GoogleIPRange/pulls)。
