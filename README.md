@@ -14,4 +14,4 @@
 
 ##批量PING可用[PingInfoView](http://www.nirsoft.net/utils/multiple_ping_tool.html)。
 
-##需要补充请直接提交[Pull Requset](https://github.com/lenovo-me/GoogleIPRange/pulls)。
+##需要补充请直接提交[Pull Request](https://github.com/lenovo-me/GoogleIPRange/pulls)。
