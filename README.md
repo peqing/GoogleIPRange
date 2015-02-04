@@ -12,7 +12,7 @@
 ##建议使用[CheckGoogleIP](https://github.com/moonshawdo/checkgoogleip/)，快速且结果精准。
 使用说明：https://github.com/CNMan/GoogleIPRange/wiki/CheckGoogleIP
 
-gogo tester可用来整理结果，导出goagent需要的带|格式。
+gogo tester可用来处理ip_tmpok.txt，导出goagent需要的带|格式。
 
 ##批量PING可用[PingInfoView](http://www.nirsoft.net/utils/multiple_ping_tool.html)。
 
